@@ -1,2 +1,5 @@
 My first line in project
 London is the capital of GB
+Podolsk 240
+
+Kaluga 650
